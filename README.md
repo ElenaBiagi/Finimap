@@ -2,7 +2,7 @@
 
 **Finimap** is a tool for building and querying compressed colored finimizer indexes for fast sequence pseudoalignment.
 
-Original paper: **Finimap: fast and accurate single-species bacterial pseudoalignment with finimizers** by J. N. Alanko, E. Biagi, S. J. Puglisi.
+Original paper: [**Finimap: fast and accurate single-species bacterial pseudoalignment with finimizers**](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2026.27) by J. N. Alanko, E. Biagi, S. J. Puglisi.
 
 Finimizers paper: [**Finimizers: Variable-length bounded-frequency minimizers for k-mer sets**](https://ieeexplore.ieee.org/abstract/document/10908718) by J. N. Alanko, E. Biagi, S. J. Puglisi.
 
